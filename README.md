@@ -1,4 +1,5 @@
 # Curso de Jogos clássicos parte 1: Iniciando no Javascript com Pong
+![](https://www.alura.com.br/assets/api/share/curso-pong-javascript.png)
 
 ## Aulas
 
